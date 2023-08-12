@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - prints all single digit numbers of base 10
- * Return: reuturn 0
+ * main - prints all single digit numbers of base 10.
+ * Return: reuturn 0.
  */
 int main(void)
 {

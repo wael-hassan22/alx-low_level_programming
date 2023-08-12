@@ -2,7 +2,7 @@ include <stdio.h>
 
 /**
  * main - prints the alphabet in lowercase, and then in uppercase,
- * Return: return 0 
+ * Return: return 0.
  */
 int main(void)
 {

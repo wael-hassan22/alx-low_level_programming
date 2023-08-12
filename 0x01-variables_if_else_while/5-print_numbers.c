@@ -4,6 +4,7 @@
  * main - prints all single digit numbers of base 10.
  * Return: return 0.
  */
+
 int main(void)
 {
 	int n;

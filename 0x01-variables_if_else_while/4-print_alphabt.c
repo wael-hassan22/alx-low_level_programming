@@ -2,7 +2,8 @@
 
 /**
  * main - prints the alphabet in lowercase,
- * Return: return 0.
+ * followed by a new line, except q and e
+ * Return: return 0 when success
  */
 int main(void)
 {
